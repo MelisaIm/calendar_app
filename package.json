@@ -1,0 +1,28 @@
+{
+	"name": "CalendarApp",
+	"version": "1.0.0",
+	"description": "Collaboration on visual calendar project. The aim for this application is to display photos in a flexible grid view to look back on memories and experiences logged in calendar format.",
+	"private": true,
+	"dependencies": {
+		"webpack": "^4.15.1",
+		"webpack-cli": "^3.0.8"
+	},
+	"devDependencies": {
+		"vue": "^2.5.16"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MelisaIm/calendar_app.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MelisaIm/calendar_app/issues"
+	},
+	"homepage": "https://github.com/MelisaIm/calendar_app#readme"
+}

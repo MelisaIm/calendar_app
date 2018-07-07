@@ -1,0 +1,5 @@
+# Ignore miscellaneous
+.*
+
+# Dev Dependenciesf
+/node_modules
